@@ -1,5 +1,5 @@
 ## Mobile Otp Verification Screen using Lottie - Flutter UI
-We created a simple and clean Mobile Otp Verification Screen UI using Flutter.
+We created a simple and clean Mobile Otp Verification Screen UI using Lottie Animation in Flutter.
 
 [Watch it on Youtube](https://youtu.be/IEB_-RZPfr0)
 
